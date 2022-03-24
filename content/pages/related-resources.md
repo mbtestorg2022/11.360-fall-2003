@@ -26,5 +26,5 @@ This report contains a synthesis of traffic calming experiences to date in the U
 [Take Back Your Streets](http://contextsensitivesolutions.org/content/reading/take-back-your-streets/)  
 How to Protect Communities from Asphalt and Traffic Conservation Law Foundation (Revised: January 1998).
 
-Visualising Density: Lower Density Catalog Images (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.sanmarcostx.gov/DocumentCenter/View/2797/Visualizing-Density-Catalogue-PDF))  
+Visualising Density: Lower Density Catalog Images ([PDF](https://www.sanmarcostx.gov/DocumentCenter/View/2797/Visualizing-Density-Catalogue-PDF))  
 Lincoln Institute of Land Policy - Working paper by Julie Campoli and Alex S. MacLean. Has images of various densities from .5 units/acre to 10.5 units/acre.
