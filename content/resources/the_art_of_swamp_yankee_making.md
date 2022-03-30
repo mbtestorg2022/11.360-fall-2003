@@ -3,6 +3,7 @@ content_type: resource
 description: Visiting Lecture
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-360-community-growth-and-land-use-planning-fall-2003/1ca87b195641124f176867f4a7b5c1a6_the_art_of_swamp_yankee_making.pdf
 file_type: application/pdf
+parent_uid: b14b4f3d-493c-3948-f6a2-207a6eb9adca
 resourcetype: Document
 title: the_art_of_swamp_yankee_making.pdf
 uid: 1ca87b19-5641-124f-1768-67f4a7b5c1a6

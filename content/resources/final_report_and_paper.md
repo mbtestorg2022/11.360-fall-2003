@@ -4,6 +4,7 @@ description: This memo will serve to convey expectations and requirements regard
   the preparation of final class reports.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-360-community-growth-and-land-use-planning-fall-2003/7e7f2b0cbc2b58b84ce5b78e31641363_final_report_and_paper.pdf
 file_type: application/pdf
+parent_uid: ea40aa35-2ad4-73e1-98c4-da80c4e2d5d3
 resourcetype: Document
 title: final_report_and_paper.pdf
 uid: 7e7f2b0c-bc2b-58b8-4ce5-b78e31641363

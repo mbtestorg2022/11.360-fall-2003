@@ -6,6 +6,7 @@ description: This report is the outcome of the graduate course Community Growth 
   that will help foster appropriate development and revitalization in Needham Center.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-360-community-growth-and-land-use-planning-fall-2003/e584c500b08514558dc310ea91429b4e_team2.pdf
 file_type: application/pdf
+parent_uid: ea40aa35-2ad4-73e1-98c4-da80c4e2d5d3
 resourcetype: Document
 title: team2.pdf
 uid: e584c500-b085-1455-8dc3-10ea91429b4e
